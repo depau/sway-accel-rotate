@@ -1,0 +1,6 @@
+github.com/Depau/go-iio-sensor-proxy v0.0.0-20190427231302-43b00654a78c h1:upDLMurY4Cc8w3M/NiqN2GLk4yXG+7wGfgZX5x0A8j8=
+github.com/Depau/go-iio-sensor-proxy v0.0.0-20190427231302-43b00654a78c/go.mod h1:zRTyayBkLnEFUmTwm9yPGGhjZQ5+M3CAVRTJ+r7jQQM=
+github.com/Depau/go-iio-sensor-proxy v0.1.0 h1:eW3GVZ8WyJLtn+f/0kFILXhzd+kRv74MFrVMcgqylmE=
+github.com/Depau/go-iio-sensor-proxy v0.1.0/go.mod h1:zRTyayBkLnEFUmTwm9yPGGhjZQ5+M3CAVRTJ+r7jQQM=
+github.com/godbus/dbus v4.1.0+incompatible h1:WqqLRTsQic3apZUK9qC5sGNfXthmPXzUZ7nQPrNITa4=
+github.com/godbus/dbus v4.1.0+incompatible/go.mod h1:/YcGZj5zSblfDWMMoOzV4fas9FZnQYTkDnsGvmh2Grw=
