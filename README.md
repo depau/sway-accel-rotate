@@ -1,6 +1,8 @@
 # Sway accelerometer rotate
 Rotate Sway outputs based on current accelerometer orientation using iio-sensor-proxy
 
+Based on [go-iio-sensor-proxy](https://github.com/Depau/go-iio-sensor-proxy)
+
 ## Usage
 
 ```
